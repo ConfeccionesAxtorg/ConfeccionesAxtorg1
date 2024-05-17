@@ -1,0 +1,185 @@
+#nombre{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a{text-decoration: none;
+    color: white;}
+
+nav {
+    background-color: black;
+    box-sizing: border-box;
+    float:center;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    height: 85px;
+    padding: 5px 14%;
+}
+
+.logo{
+    border-radius: 100%;
+    height:50px ;
+    width:50px ;
+    transition: all 0,3s;
+}
+.logo:hover{
+    height:60px ;
+    width:60px ; 
+    border-radius: 100%;
+}
+
+ul {
+    list-style-type: none; 
+    padding: 100; 
+    margin: 0;   
+}
+
+  li {
+    display: inline; 
+    margin-right: 170px; 
+
+  }
+
+
+
+
+
+hr{
+    border-style: double;
+}
+h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img.img-personalizada1{
+    height: 100px;
+    width: auto;
+    display:block;
+    margin: 0 auto;
+    border-radius: 17%;
+    border: solid black 10px;
+    }
+    img.img-personalizada2{
+        height: 100px;
+        width: auto;
+        display:block;
+        margin: 0 auto;
+        border-radius: 17%;
+        border: solid black 10px;
+        }
+        img.img-personalizada3{
+            height: 100px;
+            width: auto;
+            display:block;
+            margin: 0 auto;
+            border-radius: 17%;
+            border: solid black 10px;
+            }
+            img.img-personalizada4{
+                height: 100px;
+                width: auto;
+                display:block;
+                margin: 0 auto;
+                border-radius: 17%;
+                border: solid black 10px;
+                }
+                img.img-personalizada5{
+                    height: 100px;
+                    width: auto;
+                    display:block;
+                    margin: 0 auto;
+                    border-radius: 17%;
+                    border: solid black 10px;
+                    }
+                    img.img-personalizada6{
+                        height: 100px;
+                        width: auto;
+                        display:block;
+                        margin: 0 auto;
+                        border-radius: 17%;
+                        border: solid black 10px;
+                        }
+                        img.img-personalizada7{
+                            height: 100px;
+                            width: auto;
+                            display:block;
+                            margin: 0 auto;
+                            border-radius: 17%;
+                            border: solid black 10px;
+                            }  
+                            img.img-personalizada8{
+                                height: 100px;
+                                width: auto;
+                                display:block;
+                                margin: 0 auto;
+                                border-radius: 17%;
+                                border: solid black 10px;
+                                }  
+                                img:hover{
+                                    height: 125px;
+                                    width: auto;
+                                    border-radius: 17%;
+                                }
+
+
+    #face{
+        height: 60px;
+        width: auto;
+        margin-right: 20px;
+        margin-left: 10px;
+        transition: all 0,5s;
+      }
+    
+      #inst{
+        height: 60px;
+        width: auto;
+        margin-right: 20px;
+        transition: all 0,5s;
+      }
+    
+      #what{
+        height: 65px;
+        width: auto;
+        margin-right: 20px;
+        transition: all 0,5s;
+      }
+      footer{
+    
+        background-color: rgba(119, 118, 118, 0.678);
+        color: rgb(0, 0, 0);
+        box-sizing: border-box;
+        float:center;
+        display: flex;
+        font-size: 20px;
+        align-items: center; 
+        padding: 10px 30%;
+        transition: all 1s;
+        
+      }
+    
+      footer:hover{
+    
+        background-color: black;
+        color: white;
+        box-sizing: border-box;
+        float:center;
+        display: flex;
+        font-size: 20px;
+        align-items: center; 
+        padding: 10px 30%;
+        
+      }
+    
+      #face:hover{
+        transform: scale(1.3,1.3);
+      }
+    
+      #inst:hover{
+        transform: scale(1.3,1.3);
+      }
+    
+      #what:hover{
+        transform: scale(1.3,1.3);
+      }
+                                 
